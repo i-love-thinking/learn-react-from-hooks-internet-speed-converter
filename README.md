@@ -41,3 +41,7 @@
 ```bash
 $ npm i --save @fortawesome/fontawesome-svg-core @fortawesome/react- fontawesome @fortawesome/free-regular-svg-icons @fortawesome/free- brands-svg-icons @fortawesome/free-solid-svg-icons
 ```
+
+## 為什麼要改名為jsx
+原先作者使用js副檔名，此處改為jsx，因為這是React的慣例，讓程式碼更容易辨識。
+還有目前測試不過，原因待查。
